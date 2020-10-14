@@ -1,7 +1,8 @@
 # matplotlib
 ## Pymaceuticals Inc.
 
-#### Pymaceuticals Inc. is a pharmaceutical company specializing in drug-based, anti-cancer pharmaceuticals. They've begun screening mice for potential treatments for squamous cell carcinoma (SCC).
+### Pymaceuticals Inc. is a pharmaceutical company specializing in drug-based, anti-cancer pharmaceuticals. They've begun screening mice for potential treatments for squamous cell carcinoma (SCC).
+#####  Checked the data for mice with duplicate time points and removed them from the original dataset and used the clean dataset for analysis.
 
 ### Summary of study results 
 ##### Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
